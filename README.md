@@ -1,0 +1,2 @@
+# FakeBoogle
+kopija Googla
